@@ -1,2 +1,2 @@
 # hackranker-problems
-Solutions to hackranker problems
+Solutions to hackranker problems.
